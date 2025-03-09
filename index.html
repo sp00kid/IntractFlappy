@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Cyber Flappy - 8-Bit Neon Adventure</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Using LogoNew.png as the favicon -->
+    <link rel="icon" href="images/LogoNew.png" type="image/png">
+</head>
+<body>
+    <div class="container">
+        <div class="game-container">
+            <div class="border-top"></div>
+            <div id="game-area">
+                <div id="bird"></div>
+                <!-- Pipes will be created dynamically -->
+            </div>
+            <div class="border-bottom"></div>
+        </div>
+        <div class="game-ui">
+            <div id="score">Score: 0</div>
+            <button id="start-button">Start Game</button>
+            <div id="game-over" class="hidden">
+                <h2>Game Over!</h2>
+                <p>Your score: <span id="final-score">0</span></p>
+                <button id="restart-button">Play Again</button>
+            </div>
+            <div class="instructions">
+                <h3>How to Play</h3>
+                <p>Press SPACE or click/tap to make the bird fly upward.</p>
+                <p>Avoid the pipes and don't hit the ground!</p>
+                <p><strong>Tip:</strong> Tap gently for better control.</p>
+            </div>
+        </div>
+    </div>
+    <script src="game.js"></script>
+</body>
+</html> 
