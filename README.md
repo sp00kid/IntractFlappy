@@ -14,7 +14,7 @@ Dive into an immersive, 8-bit neon journey through the decentralized skies in **
 
 - **Intract Logo**: Fly using the official Intract logo—represent your favorite web3 brand!
 - **Cyber-Aesthetic**: Retro, 8-bit neon visuals inspired by the dynamic world of blockchain.
-- **Responsive Gameplay**: Optimized for desktop and mobile, bringing decentralized fun to everyone.
+- **Responsive Gameplay**: Optimized for desktop, bringing decentralized fun to everyone.
 - **Forgiving Mechanics**: Adjusted gravity and hitboxes make the experience fun and approachable.
 - **Dynamic Difficulty**: Game speed ramps up every 5 points—test your web3 agility!
 - **Sound Controls**: Toggle immersive sounds on or off for personalized gameplay.
